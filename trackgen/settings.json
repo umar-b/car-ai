@@ -1,0 +1,16 @@
+{
+    "grid_tile": "resources/grid_tile.png",
+    "start_tile_height": "10",
+    "start_tile_width": "10",
+    "kerb_tile": "resources/kerb_tile.png",
+    "kerb_tile_height": 7,
+    "kerb_tile_width": 12,
+    "kerb_placement_x_corection": "5",
+    "kerb_placement_y_corection": "4",
+    "kerb_point_angle_offset": "5",
+    "step_to_next_kerb_point": "4",
+    "min_points": "20",
+    "max_points": "30",
+    "margin": "50",
+    "min_distance": "20"
+}
