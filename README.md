@@ -83,11 +83,11 @@ The following libraries and *python 3.7.x* is needed for the project to work.
 
 ### TO DO
 
-[x] finish car
-[] add sensors/lidar
-[] implement ai
-[] finish track generation
-[] train and test
+- [x] finish car
+- [ ] add sensors/lidar
+- [ ] implement ai
+- [ ] finish track generation
+- [ ] train and test
 
 
 <!-- LICENSE -->
