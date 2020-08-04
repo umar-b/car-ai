@@ -33,7 +33,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="cent
+<p align="center"
   <h3 align="center">CAR AI</h3>
 
   <p align="center">
@@ -57,9 +57,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
-- [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
   - [TO DO](#to-do)
 - [License](#license)
 
@@ -73,42 +71,21 @@
 This Project is about simulating a self driving car with randomized tracks. The whole project was written in python.
 
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
 ### Prerequisites
 
-The following libraries are needed for the project to work.
+The following libraries and *python 3.7.x* is needed for the project to work.
 
-* python 3.7.x
 * numpy
 * pygame
 * scipy
 * tensorflow
 
-This is an example of how to list things you need to use the software and how to install them.
-
-### Installation
-
-1. Clone the car-ai project
-```sh
-git clone https://github.com/umar-b/car-ai.git
-```
-2. Install pip packages
-```sh
-pip install -r requirements.txt
-```
 
 ### TO DO
 
 * add sensors/lidar
 * implement ai
 * finish track generation
-
-
 
 
 <!-- LICENSE -->
