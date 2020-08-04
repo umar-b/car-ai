@@ -33,11 +33,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/umar-b/car-ai">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
+<p align="cent
   <h3 align="center">CAR AI</h3>
 
   <p align="center">
